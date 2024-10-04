@@ -1,7 +1,14 @@
+# Contenido descartado
+test42.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+# archivos mac ds_store
+
+.DS_Store
 
 # C extensions
 *.so
